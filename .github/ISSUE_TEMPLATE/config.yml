@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/scirats/petal/discussions
+    about: Ask questions and share what you're running in Petal.
+  - name: Security vulnerability
+    url: https://github.com/scirats/petal/security/advisories/new
+    about: Report security problems privately.

@@ -1,0 +1,11 @@
+excluded:
+  - .build
+  - build
+disabled_rules:
+  - trailing_comma
+  - optional_data_string_conversion
+line_length:
+  warning: 140
+  error: 200
+identifier_name:
+  min_length: 2
